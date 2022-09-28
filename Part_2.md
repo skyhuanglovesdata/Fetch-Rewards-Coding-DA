@@ -37,3 +37,4 @@ WHERE
 # Since I use dense_rank above, there will be no gap for the tied values. And this may include more than 5 brands because of tie ranks.
 
 
+
